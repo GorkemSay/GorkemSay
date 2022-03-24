@@ -8,7 +8,8 @@ I love both software and hardware side of technology. I am interested in micropr
 
 In Social?
 
-My [Twitter](https://twitter.com/Gorkem_Say) profile.
+[Twitter](https://twitter.com/Gorkem_Say) profile.
+[LinkedIn](https://www.linkedin.com/in/g%C3%B6rkem-say-795623141/) profile.
 <!---
 GorkemSay/GorkemSay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
