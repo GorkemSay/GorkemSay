@@ -1,9 +1,9 @@
 **Hi there 👋**
 
 Welcome to my GitHub profile.
-My name is Görkem Say, from Adana - Turkey.
+My name is Görkem Say, from Turkey.
 
-I am a computer science student at Çukurova University. Currently, I am learning Swift  with UIKit and working on it. I am always trying to grow and learning new things.
+I am a computer engineer student at Çukurova University. Currently, I am learning Swift  with UIKit and working on it. I am always trying to grow and learning new things.
 I love both software and hardware side of technology. I am interested in microprocessor architectures <a href="https://emoji.gg/emoji/CPU"><img src="https://emoji.gg/assets/emoji/CPU.png" width="20px" height="20px" alt="CPU"></a> as a hobby.
 
 **How to reach me?**
